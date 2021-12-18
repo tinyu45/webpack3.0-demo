@@ -1,0 +1,1 @@
+module.exports="来自runoob2.js的一句话：<h1>干饭人，干饭魂；干饭都是人上人！😄</h1>"
